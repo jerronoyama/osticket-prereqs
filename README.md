@@ -58,7 +58,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install `PHPManagerForIIS_V1.5.0.msi`
 - Install `rewrite_amd64_en-US.msi`
 
-📸 *Screenshot: PHP Manager installation*
+<img width="1792" height="1120" alt="image" src="https://github.com/user-attachments/assets/81cf9242-1889-4f64-b6ca-67b05d35c2a4" />
+
 
 
 ### 5. Set Up PHP
