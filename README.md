@@ -132,7 +132,8 @@ Enable:
 - Create new session: root/root
 - Create database named `osTicket`
 
-📸 *Screenshot: Newly created osTicket database*
+<img width="1792" height="1120" alt="image" src="https://github.com/user-attachments/assets/dce263d5-1cce-41aa-8b08-6f045129ce26" />
+
 
 
 ### 12. Complete osTicket Setup in Browser
