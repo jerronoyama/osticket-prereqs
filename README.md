@@ -51,7 +51,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - World Wide Web Services
   - Application Development Features → CGI
 
-<img width="1792" height="1120" alt="image" src="https://github.com/user-attachments/assets/2077aca7-9a23-42f5-b295-b4ff9da16f1d" />
+<img width="1792" height="1120" alt="Screenshot 2025-11-28 at 4 43 39 PM" src="https://github.com/user-attachments/assets/52537163-196f-4475-99c5-bc25126f2066" />
+
 
 ### 4. Install PHP Manager & Rewrite Module
 - Install `PHPManagerForIIS_V1.5.0.msi`
