@@ -79,7 +79,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Username: `root`
   - Password: `root`
 
-<img width="1792" height="1120" alt="image" src="https://github.com/user-attachments/assets/c4e30a8f-1e7b-4898-b578-97f8fdbf4c1b" />
+<img width="1792" height="1120" alt="image" src="https://github.com/user-attachments/assets/01bd2ac2-f858-4efc-9138-f77ad6b21310" />
+
 
 
 
