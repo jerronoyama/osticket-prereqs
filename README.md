@@ -123,7 +123,8 @@ Enable:
   - Disable inheritance
   - Give Everyone → Full Control
 
-📸 *Screenshot: ost-config.php permissions*
+<img width="1792" height="1120" alt="image" src="https://github.com/user-attachments/assets/9e469f73-ba97-483b-9a49-bd6c4d5fd0ab" />
+
 
 
 ### 11. Create MySQL Database (HeidiSQL)
