@@ -151,8 +151,4 @@ Visit: `http://localhost/osTicket/`
 
 
 
-### 13. Post-Installation Cleanup
-- Delete: `C:\inetpub\wwwroot\osTicket\setup`
-- Set `ost-config.php` to Read-only
 
-📸 *Screenshot: Read-only permissions on ost-config.php*
