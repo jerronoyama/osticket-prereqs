@@ -79,7 +79,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Username: `root`
   - Password: `root`
 
-📸 *Screenshot: MySQL configuration wizard*
+<img width="1792" height="1120" alt="image" src="https://github.com/user-attachments/assets/c4e30a8f-1e7b-4898-b578-97f8fdbf4c1b" />
+
 
 
 ### 7. Register PHP in IIS
