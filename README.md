@@ -112,7 +112,8 @@ Enable:
 - php_intl.dll
 - php_opcache.dll
 
-📸 *Screenshot: Enabled PHP extensions in IIS*
+<img width="1792" height="1120" alt="image" src="https://github.com/user-attachments/assets/506c427d-2ee5-449d-a262-52c4e1e8becb" />
+
 
 
 ### 10. Configure ost-config.php
