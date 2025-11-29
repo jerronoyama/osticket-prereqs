@@ -100,7 +100,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Rename folder to `osTicket`
 - Restart IIS
 
-📸 *Screenshot: osTicket folder in wwwroot*
+<img width="1792" height="1120" alt="image" src="https://github.com/user-attachments/assets/20c69d31-0487-4bff-9d81-9705c5747fda" />
+
 
 
 ### 9. Enable Required PHP Extensions
