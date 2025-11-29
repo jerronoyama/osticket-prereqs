@@ -37,12 +37,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="1792" height="1120" alt="image" src="https://github.com/user-attachments/assets/801702e4-d843-44d5-8a32-1667b42f1349" />
 
 
-
 ### 2. Download & Extract osTicket Files
 - Download `osTicket-Installation-Files.zip`
 - Extract it to the Desktop
 
-📸 *Screenshot: Extracted osTicket files on Desktop*
+<img width="1792" height="1120" alt="image" src="https://github.com/user-attachments/assets/2c73491a-4156-4741-be42-9da6cd8b697e" />
 
 
 ### 3. Install & Enable IIS with CGI
