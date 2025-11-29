@@ -68,7 +68,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Extract PHP 7.3.8 into `C:\PHP`
 - Install `VC_redist.x86.exe`
 
-📸 *Screenshot: PHP extracted to C:\PHP*
+<img width="1792" height="1120" alt="image" src="https://github.com/user-attachments/assets/61f614bd-2172-4800-9c61-7070ef6d4d05" />
+
 
 
 ### 6. Install MySQL Server 5.5
