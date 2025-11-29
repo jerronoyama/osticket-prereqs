@@ -34,7 +34,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Set username: `labuser`
 - Connect via Remote Desktop
 
-📸 *Screenshot: Azure VM creation page*
+<img width="1792" height="1120" alt="image" src="https://github.com/user-attachments/assets/801702e4-d843-44d5-8a32-1667b42f1349" />
+
 
 
 ### 2. Download & Extract osTicket Files
