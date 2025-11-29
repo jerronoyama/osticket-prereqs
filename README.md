@@ -60,6 +60,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1792" height="1120" alt="image" src="https://github.com/user-attachments/assets/81cf9242-1889-4f64-b6ca-67b05d35c2a4" />
 
+<img width="1792" height="1120" alt="image" src="https://github.com/user-attachments/assets/ae0d8859-a417-4b26-aa0a-7d6c660799fb" />
 
 
 ### 5. Set Up PHP
