@@ -25,7 +25,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Internet connection inside the VM
 - Administrative rights on the VM
 
-<h2>Installation Steps</h2>
 
 ## Installation Steps
 
