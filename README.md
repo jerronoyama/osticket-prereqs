@@ -90,7 +90,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Select: `C:\PHP\php-cgi.exe`
 - Restart IIS
 
-📸 *Screenshot: PHP registered in IIS*
+<img width="1792" height="1120" alt="image" src="https://github.com/user-attachments/assets/ae6dff46-39b5-4a4f-a8b1-1695caf00da2" />
+
 
 
 ### 8. Install osTicket Application
