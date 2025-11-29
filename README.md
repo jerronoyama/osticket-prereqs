@@ -147,7 +147,8 @@ Visit: `http://localhost/osTicket/`
   - Password: `root`
 - Install
 
-📸 *Screenshot: osTicket installation success page*
+<img width="1792" height="1120" alt="image" src="https://github.com/user-attachments/assets/e020fe03-1680-441c-abb5-82ebdd124e54" />
+
 
 
 ### 13. Post-Installation Cleanup
